@@ -21,6 +21,11 @@
         letter-spacing: .6rem;
     }
 
+    .beiju p{
+        font-size: 10px;
+        letter-spacing: 0.3em;
+    }
+
     .beiju img{
         width: 120px;
     }
