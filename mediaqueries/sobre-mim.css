@@ -1,0 +1,54 @@
+
+@media (max-width: 575.98px) {
+    
+    .page2-container{
+        width: 80%;
+    }
+
+    .seta-voltar svg{
+        width: 30px;
+        height: 30px;
+    }
+
+    .title img{
+        width: 25px;
+        height: auto;
+    }
+
+    .title{
+        margin-top: 4em;
+    }
+    
+    .title h3{
+        color: white;
+        font-size: 11px;
+        position: relative;
+        top: 0.30rem;
+        letter-spacing: .6rem;
+    }
+
+    .conteudo p{
+        font-size: 15px;
+        line-height: 2em;
+        width: 100%;
+    }
+
+    .social-medias{
+        gap: 20px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .title{
+        margin-top: 4em;
+    }
+
+    .social-medias{
+        gap: 25px;
+    }
+}
+
+/*@media (min-width: 768px){
+    
+}*/

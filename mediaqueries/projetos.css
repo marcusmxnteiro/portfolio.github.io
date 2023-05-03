@@ -1,0 +1,28 @@
+@media (max-width: 575.98px) {
+    .seta-voltar svg{
+        width: 30px;
+        height: 30px;
+    }
+
+    .title{
+        margin-top: 4em;
+    }
+
+    .title img{
+        width: 30px;
+        height: auto;
+    }
+    
+    .title h3{
+        color: white;
+        font-size: 12px;
+        position: relative;
+        top: 0.30rem;
+        letter-spacing: .6rem;
+    }
+
+    .beiju img{
+        width: 120px;
+    }
+
+}

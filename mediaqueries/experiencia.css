@@ -1,0 +1,83 @@
+
+@media (max-width: 575.98px){
+
+    .page4{
+        height: fit-content;
+        width: fit-content;
+        overflow: hidden;
+    }
+
+    .seta-voltar svg{
+        width: 30px;
+        height: 30px;
+    }
+
+    .title{
+        margin-top: 4em;
+    }
+
+    .title img{
+        width: 25px;
+        height: auto;
+    }
+    
+    .title h3{
+        color: white;
+        font-size: 11px;
+        position: relative;
+        top: 0.30rem;
+        letter-spacing: .6rem;
+    }
+
+    .timeline-container{
+        width: 90%;
+    }
+
+    .titulo-exp{
+        font-size: 12px;
+        line-height: 1.5em;
+    }
+
+    .empresa-exp{
+        font-size: 10px;
+        line-height: 1.5em;
+    }
+
+    .descricao{
+        font-size: 15px;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .page4{
+        height: fit-content;
+        width: fit-content;
+        overflow: hidden;
+    }
+
+    .title{
+        margin-top: 4em;
+    }
+
+    .timeline-container{
+        width: 90%;
+    }
+
+    .titulo-exp{
+        font-size: 14px;
+    }
+
+    .empresa-exp{
+        font-size: 12px;
+    }
+
+    .descricao{
+        font-size: 16px;
+    }
+}
+
+/*@media (min-width: 768px){
+    
+}*/

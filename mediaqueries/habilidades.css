@@ -1,0 +1,111 @@
+
+@media (max-width: 575.98px) {
+
+    .page3{
+        height: fit-content;
+        width: fit-content;
+        overflow: hidden;
+    }
+
+    .seta-voltar svg{
+        width: 30px;
+        height: 30px;
+    }
+
+    .title{
+        margin-top: 4em;
+    }
+
+    .title img{
+        width: 25px;
+        height: auto;
+    }
+    
+    .title h3{
+        color: white;
+        font-size: 12px;
+        position: relative;
+        top: 0.30rem;
+        letter-spacing: .6rem;
+    }
+
+    .conteudo{
+        width: 90%;
+    }
+
+    .dev-skill, .design-skill, .idiomas-skill{
+        gap: 8%;
+        margin-left: .5em;
+    }
+
+    .dev-skill img, .design-skill img, .idiomas-skill img{
+        width: 25px;
+    }
+
+    .div-title-conhecimento{
+        position: relative;
+        top: -2.6em;
+        left: -.5em;
+        width: 13em;
+        text-align: center;
+        padding-left: .5em;
+    }
+
+    .conhecimentos{
+        width: 90%;
+        margin-top: 2em;
+    }
+    
+    .conhecimentos h2{
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .conhecimento-conteudo{
+        font-size: 13px;
+    }
+
+    .conhecimento-conteudo ul li{
+        margin-bottom: 2em;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .page3{
+        height: fit-content;
+        width: fit-content;
+        overflow: hidden;
+    }
+
+    .title{
+        margin-top: 4em;
+    }
+    
+    .dev-skill, .design-skill, .idiomas-skill{
+        gap: 40px;
+        margin-left: 1.5em;
+    }
+
+    .div-title-conhecimento{
+        position: relative;
+        top: -2.5em;
+        left: .3em;
+        width: 14em;
+        text-align: center;
+        padding-left: .5em;
+    }
+    
+    .conhecimentos h2{
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .conhecimento-conteudo{
+        font-size: 15px;
+    }
+
+    .conhecimento-conteudo ul li{
+        margin-bottom: 2em;
+    }
+}
