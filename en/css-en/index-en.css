@@ -16,6 +16,12 @@ body{
     height: 100%;
 }
 
+.bg_video{
+    position: absolute;
+    z-index: -2;
+    width: 100%;
+}
+
 .page1-container{
     display: flex;
     flex-direction: column;
