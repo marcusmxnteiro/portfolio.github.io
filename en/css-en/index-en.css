@@ -15,12 +15,8 @@ body{
 .page1{
     height: 100%;
     width: 100%;
-}
-
-.bg_video{
-    position: absolute;
-    z-index: -2;
-    width: 100%;
+    background: url(/img/backgroud.jpg) no-repeat center;
+    background-size: cover;
 }
 
 .page1-container{
